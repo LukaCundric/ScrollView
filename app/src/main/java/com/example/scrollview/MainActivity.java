@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         btnComment.setOnClickListener(v -> {
             Toast.makeText(
                     MainActivity.this,
-                    "COMMENT POTRJEN:)",
+                    "DODAN KR EN COMMENT:)",
                     Toast.LENGTH_SHORT
             ).show();
         });
