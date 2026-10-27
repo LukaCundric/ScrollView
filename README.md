@@ -38,9 +38,9 @@ Spodaj so prikazani posnetki zaslona aplikacije in njenega uporabniškega vmesni
 Spodaj so prikazani posnetki zaslona aplikacije in njenega uporabniškega vmesnika.
 
 <p align="center">
-<img width="250" height="500" alt="ScroolView1" src="https://github.com/user-attachments/assets/3f4c7b19-b29c-4fd3-ba6c-8133732b8c57" />
-<img width="250" height="500" alt="ScroolView2" src="https://github.com/user-attachments/assets/1f28470d-bf45-4bc6-9bb5-cb2c269cff55" />
-<img width="250" height="500" alt="ScroolView3" src="https://github.com/user-attachments/assets/92ebdd6a-cab5-482c-81e4-7e847e7e7cbf" />
+  <img width="300" height="600" alt="ScroolView1" src="https://github.com/user-attachments/assets/3f4c7b19-b29c-4fd3-ba6c-8133732b8c57" />
+  <img width="300" height="600" alt="ScroolView2" src="https://github.com/user-attachments/assets/1f28470d-bf45-4bc6-9bb5-cb2c269cff55" />
+  <img width="300" height="600" alt="ScroolView3" src="https://github.com/user-attachments/assets/92ebdd6a-cab5-482c-81e4-7e847e7e7cbf" />
 </p>
 
 ## Cilj naloge
